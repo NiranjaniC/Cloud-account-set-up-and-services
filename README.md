@@ -1,4 +1,4 @@
-# EX NO: Cloud-account-set-up-and-services
+# EX NO:01 Cloud-account-set-up-and-services
 
 Name : Niranjani.C
 Reg no: 212223220069
